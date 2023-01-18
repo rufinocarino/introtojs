@@ -1,0 +1,63 @@
+* {
+    /* outline: 1px dotted red; */
+   
+}
+
+.container {
+    outline: 1px solid black;
+    width: 970px;
+    min-height: 600px;
+    margin: auto;
+}
+
+.nav {
+    width: 300px;
+    min-height: 920px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+    color: gray;
+    background-color: rgb(219, 216, 216);
+    
+}
+
+.navOne , .navTwo {
+    margin: 0px 10px;
+}
+
+
+.title {
+    margin: 10px 0px;
+    font-weight: bold;
+}
+
+.navTitle {
+    margin: 5px 0px;
+    font-size: 12px;
+}
+
+.main {
+    width: 660px;
+    min-height: 600px;
+    display: inline-block;   
+}
+
+    .message {
+        padding: 0px 20px 15px 20px;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    .italic {
+        font-style: italic;
+    }
+    
+        .boxTwo {
+            border: 2px solid rgb(196, 192, 192);
+            padding: 0px 30px;
+        }
+
+    
+
